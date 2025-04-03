@@ -32,7 +32,7 @@ git clone https://github.com/oracle/docker-images.git
 
 ### 2. Descargar y copiar Oracle Database 19c
 ##### Descargar la version 19.3.0 de Oracle:
-https://www.oracle.com/es/database/technologies/oracle19c-windows-downloads.html
+https://www.oracle.com/es/database/technologies/oracle19c-linux-downloads.html
 
 ---
 
